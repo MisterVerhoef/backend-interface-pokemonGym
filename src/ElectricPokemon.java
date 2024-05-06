@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class ElectricPokemon {
+public class ElectricPokemon extends Pokemon {
+
+
+
 }
